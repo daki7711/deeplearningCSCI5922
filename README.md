@@ -1,2 +1,2 @@
 # deeplearningCSCI5922
-This is homework for deep learning
+Coding Assignments for CSCI 5922 in 2020 Spring
